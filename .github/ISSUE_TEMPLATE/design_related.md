@@ -3,7 +3,7 @@ name: "\U00002728 Design Related"
 about: Capture needs specific to design and user experience research
 title: ''
 labels: design
-assignees: liaprins-czi
+assignees: Lisa-CZI, isabela-pf
 
 ---
 
