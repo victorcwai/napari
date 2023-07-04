@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 ubuntu:22.04 AS napari
+FROM --platform=linux/amd64 ubuntu:22.10 AS napari
 # if you change the Ubuntu version, remember to update
 # the APT definitions for Xpra below so it reflects the
 # new codename (e.g. 20.04 was focal, 22.04 had jammy)
